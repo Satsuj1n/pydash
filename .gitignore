@@ -1,6 +1,22 @@
-/venv/
-*.png
-r2a/r2afdash.py
+# Virtualenv
+venv/
+ENV/
+env/
+.venv/
+
+# Distribuição / pacotes
+build/
+dist/
+*.egg-info/
+
+# Testes
+.coverage
+*.log
+
+# Editor configs extras
+.vscode/
+
+
 .DS_Store
 .idea/
 
