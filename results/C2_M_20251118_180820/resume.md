@@ -1,19 +1,32 @@
-﻿# C2_M_20251118_180820 — BigBuckBunny (1s)
-**Carimbo:** 180820
-**Algoritmo:** R2ATBEMA (esqueleto)
+﻿# C2_M_20251118_180820
 
-## Config
-buffering_until=5, max_buffer_size=60, playbak_step=1, profile=M@5s, seed=1
+**Perfil (	raffic_shaping_profile_sequence)**: $( M )"
+        # C2_M_20251118_180820  += "
+        # C2_M_20251118_180820  += 
 
-## KPIs (log)
-- (sem métricas no log para este cenário)
+| KPI                       | Valor |
+|---------------------------|-------|
+| Pauses number             | N/A |
+| Average Time Pauses (s)   | N/A |
+| Average QI                | N/A |
+| Average QI distance       | N/A |
 
-## Gráficos
+## Gráficos (PNGs)
+
 - playback.png
 - playback_buffer_size.png
 - playback_qi.png
 - playback_quality_qi.png
 - throughput.png
 
-## Observações
-- Coerência com perfil **M**.
+## Log principal
+
+- $logUsedName"
+        # C2_M_20251118_180820  **Perfil (	raffic_shaping_profile_sequence)**: $( M )"
+        # C2_M_20251118_180820  += "
+        # C2_M_20251118_180820  +=   | KPI                       | Valor | |---------------------------|-------| | Pauses number             | N/A | | Average Time Pauses (s)   | N/A | | Average QI                | N/A | | Average QI distance       | N/A |  ## Gráficos (PNGs)  - playback.png - playback_buffer_size.png - playback_qi.png - playback_quality_qi.png - throughput.png  ## Log principal  += "
+        # C2_M_20251118_180820  **Perfil (	raffic_shaping_profile_sequence)**: $( M )"
+        # C2_M_20251118_180820  += "
+        # C2_M_20251118_180820  +=   | KPI                       | Valor | |---------------------------|-------| | Pauses number             | N/A | | Average Time Pauses (s)   | N/A | | Average QI                | N/A | | Average QI distance       | N/A |  ## Gráficos (PNGs)  - playback.png - playback_buffer_size.png - playback_qi.png - playback_quality_qi.png - throughput.png  ## Log principal  += 
+
+- Alguns KPIs não foram encontrados no log e estão marcados como 'N/A'.

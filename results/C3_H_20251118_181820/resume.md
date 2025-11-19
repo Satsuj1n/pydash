@@ -1,14 +1,18 @@
-﻿# C3_H_20251118_181820 — BigBuckBunny (1s)
-**Carimbo:** 181820
-**Algoritmo:** R2ATBEMA (esqueleto)
+﻿# C3_H_20251118_181820
 
-## Config
-buffering_until=5, max_buffer_size=60, playbak_step=1, profile=H@5s, seed=1
+**Perfil (	raffic_shaping_profile_sequence)**: $( H )"
+        # C3_H_20251118_181820  += "
+        # C3_H_20251118_181820  += 
 
-## KPIs (log)
-- (sem métricas no log para este cenário)
+| KPI                       | Valor |
+|---------------------------|-------|
+| Pauses number             | N/A |
+| Average Time Pauses (s)   | N/A |
+| Average QI                | N/A |
+| Average QI distance       | N/A |
 
-## Gráficos
+## Gráficos (PNGs)
+
 - playback.png
 - playback_buffer_size.png
 - playback_pauses.png
@@ -16,5 +20,14 @@ buffering_until=5, max_buffer_size=60, playbak_step=1, profile=H@5s, seed=1
 - playback_quality_qi.png
 - throughput.png
 
-## Observações
-- Coerência com perfil **H**.
+## Log principal
+
+- $logUsedName"
+        # C3_H_20251118_181820  **Perfil (	raffic_shaping_profile_sequence)**: $( H )"
+        # C3_H_20251118_181820  += "
+        # C3_H_20251118_181820  +=   | KPI                       | Valor | |---------------------------|-------| | Pauses number             | N/A | | Average Time Pauses (s)   | N/A | | Average QI                | N/A | | Average QI distance       | N/A |  ## Gráficos (PNGs)  - playback.png - playback_buffer_size.png - playback_pauses.png - playback_qi.png - playback_quality_qi.png - throughput.png  ## Log principal  += "
+        # C3_H_20251118_181820  **Perfil (	raffic_shaping_profile_sequence)**: $( H )"
+        # C3_H_20251118_181820  += "
+        # C3_H_20251118_181820  +=   | KPI                       | Valor | |---------------------------|-------| | Pauses number             | N/A | | Average Time Pauses (s)   | N/A | | Average QI                | N/A | | Average QI distance       | N/A |  ## Gráficos (PNGs)  - playback.png - playback_buffer_size.png - playback_pauses.png - playback_qi.png - playback_quality_qi.png - throughput.png  ## Log principal  += 
+
+- Alguns KPIs não foram encontrados no log e estão marcados como 'N/A'.
