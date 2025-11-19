@@ -1,0 +1,3 @@
+﻿[MD] title=True header=True
+[CSV] ok=True linhas=4 faltantes=
+[MATCH] Correlação gerada: C:\Users\Felipe\Documents\Trabalho de Redes\pydash\results\_validation_csv_vs_logs.csv
